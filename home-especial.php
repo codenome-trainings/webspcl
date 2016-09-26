@@ -26,6 +26,9 @@
 
                     <ul class="nav navbar-nav navbar-right" role="menubar">
                         <li role="menuitem">
+                            <a href="index.php">Voltar ao site</a>
+                        </li>
+                        <li role="menuitem">
                             <a href="#" data-toggle="modal" data-target="#modal-credits">Créditos e bibliografia</a>
                         </li>
                         <li role="menuitem">
