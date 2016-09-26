@@ -1,0 +1,57 @@
+main {
+    font-family: serif;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+p {
+    font-size: 30px;
+    line-height: 65px;
+}
+
+ul li {
+    font-size: 30px;
+}
+
+ul li a {
+    color: #0f0f0f;
+}
+
+a {
+    font-size: 30px;
+    color: #7b7b7b;
+}
+
+a:hover {
+    color: #0f0f0f;
+}
+
+div table {
+    font-size: 30px;
+}
+
+.center {
+    margin-top:50px;
+}
+
+.modal-header {
+    padding-bottom: 5px;
+}
+
+.modal-footer {
+    padding: 0;
+}
+
+.modal-footer .btn-group button {
+    height:40px;
+    border-top-left-radius : 0;
+    border-top-right-radius : 0;
+    border: none;
+    border-right: 1px solid #ddd;
+}
+
+.modal-footer .btn-group:last-child > button {
+    border-right: 0;
+}

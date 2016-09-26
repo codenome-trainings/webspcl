@@ -6,7 +6,7 @@
 function contrateFundoBranco() {
     document.getElementById("acessibilidade").style.color = "rgb(0,0,0)";
     document.getElementById("acessibilidade").style.color = "rgb(0,0,0)";
-    document.getElementById("acessibilidade").style.backgroundColor = "rgb(230,230,230)";
+    document.getElementById("acessibilidade").style.backgroundColor = "rgb(255,255,255)";
 }
 
 function contrateFundoPreto() {

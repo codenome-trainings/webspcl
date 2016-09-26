@@ -9,6 +9,10 @@
                     <hr class="espaco-superior">
                     <div class="modal-body">
 
+
+                            <a href="home-especial.php">Acessar site contraste</a><br>
+
+
                         <button type="button" class="btn btn-success btn-sm space-left" id="btnAumentar"
                                 title="Aumentar fonte">Aumentar fonte
                         </button>
