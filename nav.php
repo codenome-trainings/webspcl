@@ -6,9 +6,6 @@
             <li role="menuitem"><a href="#ProjetoWaiAria">Projeto WAI-ARIA</a></li>
             <li role="menuitem"><a href="#IntegracoesComSoftwares">Integrações com softwares</a></li>
             <li role="menuitem"><a href="#PublicoEspecial">Público especial</a></li>
-            <li>
-
-            </li>
         </ul>
         <ul>
 

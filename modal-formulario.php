@@ -1,7 +1,3 @@
-
-
-
-
 <!-- line modal -->
 <div class="modal fade" id="squarespaceModal" tabindex="-1" role="dialog" aria-labelledby="modalLabel" aria-hidden="true">
     <div class="modal-dialog">
@@ -15,16 +11,16 @@
                 <!-- content goes here -->
                 <form action="#" method="post">
                     <div class="form-group">
-                        <label for="exampleInputEmail1">Endereço de email</label>
-                        <input type="email" class="form-control" id="exampleInputEmail1" placeholder="Digite seu email">
+                        <label for="email">Endereço de email</label>
+                        <input type="email" class="form-control" id="email" placeholder="Digite seu email">
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputPassword1">Senha</label>
-                        <input type="password" class="form-control" id="exampleInputPassword1" placeholder="Digite sua senha">
+                        <label for="senha">Senha</label>
+                        <input type="password" class="form-control" id="senha" placeholder="Digite sua senha">
                     </div>
                     <div class="form-group">
-                        <label for="exampleInputFile">Enviar arquivo</label>
-                        <input type="file" id="exampleInputFile">
+                        <label for="enviarArquivo">Enviar arquivo</label>
+                        <input type="file" id="enviarArquivo">
                         <p class="help-block">Você precisa adicionar um arquivo!</p>
                     </div>
                     <div class="checkbox">
